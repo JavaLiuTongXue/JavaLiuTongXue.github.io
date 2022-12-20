@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2b64e284","path":"/zh/demo/","title":"主要功能与配置演示","lang":"zh-CN","frontmatter":{"title":"主要功能与配置演示","index":false,"icon":"discover","category":["使用指南"]},"excerpt":"","headers":[{"level":2,"title":"目录","slug":"目录","link":"#目录","children":[]}],"git":{},"readingTime":{"minutes":0.13,"words":40},"filePathRelative":"zh/demo/README.md"}');export{e as data};

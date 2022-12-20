@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-30512ea2","path":"/zh/blog/ymxl/","title":"源码系列","lang":"zh-CN","frontmatter":{"title":"源码系列","icon":"creative"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"zh/blog/ymxl/README.md"}');export{e as data};
