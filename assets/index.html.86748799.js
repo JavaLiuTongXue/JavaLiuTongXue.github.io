@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e932099a","path":"/blog/ymxl/","title":"源码系列","lang":"zh-CN","frontmatter":{"title":"源码系列","icon":"creative"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"blog/ymxl/README.md"}');export{e as data};
